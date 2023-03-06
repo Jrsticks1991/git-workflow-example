@@ -1,1 +1,3 @@
 this is some example to work with.
+this is new
+Even newer example
